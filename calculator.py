@@ -5,5 +5,5 @@ from arithmetic import (add, subtract, multiply, divide, square, cube,
 
 
 # Replace this with your code
-def some_function:
+def some_function():
     pass
